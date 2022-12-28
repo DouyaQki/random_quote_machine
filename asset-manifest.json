@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/random_quote_machine/static/css/main.c586044d.css",
-    "main.js": "/random_quote_machine/static/js/main.f7e64706.js",
+    "main.css": "/random_quote_machine/static/css/main.11487cf8.css",
+    "main.js": "/random_quote_machine/static/js/main.23e995b0.js",
+    "static/media/banner_sf.jpg": "/random_quote_machine/static/media/banner_sf.bb52631d1ed48802f165.jpg",
     "static/media/sf_title.jpg": "/random_quote_machine/static/media/sf_title.7a309eb550c714cd79a6.jpg",
-    "static/media/twitter.png": "/random_quote_machine/static/media/twitter.5683fc3afadbdbedcf84.png",
+    "static/media/account_avatar.jpg": "/random_quote_machine/static/media/account_avatar.be12e8a4c028a2f18dbb.jpg",
     "static/media/dhalsim.png": "/random_quote_machine/static/media/dhalsim.d67dd27710c474e7c631.png",
     "static/media/zangief.png": "/random_quote_machine/static/media/zangief.eb233379068a0cc3a946.png",
     "index.html": "/random_quote_machine/index.html",
-    "main.c586044d.css.map": "/random_quote_machine/static/css/main.c586044d.css.map",
-    "main.f7e64706.js.map": "/random_quote_machine/static/js/main.f7e64706.js.map"
+    "main.11487cf8.css.map": "/random_quote_machine/static/css/main.11487cf8.css.map",
+    "main.23e995b0.js.map": "/random_quote_machine/static/js/main.23e995b0.js.map"
   },
   "entrypoints": [
-    "static/css/main.c586044d.css",
-    "static/js/main.f7e64706.js"
+    "static/css/main.11487cf8.css",
+    "static/js/main.23e995b0.js"
   ]
 }

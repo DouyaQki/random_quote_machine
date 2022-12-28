@@ -178,13 +178,12 @@ const Tweet = () => {
   return (
     <div id='quote-box'>
       <div className='pinned-tweet secondary'>
-        <img src={pin} alt='' />
+        <img src={pin} alt='pin icon' />
         <p>Pinned Tweet</p>
       </div>
       
       <article className='tweet-box'>
         {/*  AVATAR */}
-        {/*  no le puse estilos al div */}
         <div className='tweet-avatar-box'>
           <img className='tweet-avatar' src={img} alt={author} />
         </div>
@@ -208,7 +207,7 @@ const Tweet = () => {
           {/* MEDIA ------------------------------------------------> */}
           <img className='tweet-media' src={sf_title} alt={sf_title} />
 
-          {/* SHARE Y BOTON ------------------------------------------------> */}
+          {/* SHARE Y BUTTON ------------------------------------------------> */}
 
           <section className='share-and-new-quote'>
             <a

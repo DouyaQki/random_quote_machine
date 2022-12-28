@@ -22,11 +22,11 @@ const AvatarAndOptions = () => {
 
   return (
     <section className='avatar-notification-options'>
-        <img src={account_avatar} alt='' className='account_avatar' />
+        <img src={account_avatar} alt='account avatar' className='account_avatar' />
 
       <section className='options-box'>
         <div className='account-btn'>
-          <img src={options_icon} alt='' className='option' />
+          <img src={options_icon} alt='option icon' className='option' />
         </div>
 
         <button className='follow-btn' ref={followRef} onClick={handleClick}>Follow</button>

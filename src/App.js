@@ -12,7 +12,7 @@ const App = () => {
         <img
           src={banner}
           className='sf_banner'
-          alt='Street Fighter II characters'
+          alt='Street Fighter II Ryu stage'
         />
       </header>
       {/* AVATAR AND OPTIONS */}

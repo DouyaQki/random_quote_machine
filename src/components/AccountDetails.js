@@ -18,17 +18,17 @@ const AccountDetails = () => {
         </p>
         <section className='user-data'>
           <div className='profile-icon-details'>
-            <img src={location} alt='' />
+            <img src={location} alt='location icon' />
             <p>Metro City</p>
           </div>
 
           <div className='profile-icon-details'>
-            <img src={weblink} alt='' />
+            <img src={weblink} alt='link icon' />
             <a href='https://streetfighter.com/'>streetfighter.com</a>
           </div>
 
           <div className='profile-icon-details'>
-            <img src={calendar} alt='' />
+            <img src={calendar} alt='calendar icon' />
             <p>Joined August 2011</p>
           </div>
         </section>

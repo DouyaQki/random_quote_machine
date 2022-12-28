@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/random_quote_machine/static/css/main.11487cf8.css",
-    "main.js": "/random_quote_machine/static/js/main.23e995b0.js",
+    "main.js": "/random_quote_machine/static/js/main.2edb6b2e.js",
     "static/media/banner_sf.jpg": "/random_quote_machine/static/media/banner_sf.bb52631d1ed48802f165.jpg",
     "static/media/sf_title.jpg": "/random_quote_machine/static/media/sf_title.7a309eb550c714cd79a6.jpg",
     "static/media/account_avatar.jpg": "/random_quote_machine/static/media/account_avatar.be12e8a4c028a2f18dbb.jpg",
@@ -9,10 +9,10 @@
     "static/media/zangief.png": "/random_quote_machine/static/media/zangief.eb233379068a0cc3a946.png",
     "index.html": "/random_quote_machine/index.html",
     "main.11487cf8.css.map": "/random_quote_machine/static/css/main.11487cf8.css.map",
-    "main.23e995b0.js.map": "/random_quote_machine/static/js/main.23e995b0.js.map"
+    "main.2edb6b2e.js.map": "/random_quote_machine/static/js/main.2edb6b2e.js.map"
   },
   "entrypoints": [
     "static/css/main.11487cf8.css",
-    "static/js/main.23e995b0.js"
+    "static/js/main.2edb6b2e.js"
   ]
 }

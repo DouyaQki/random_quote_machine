@@ -204,6 +204,7 @@ h2 {
   width: 50%;
   font-size: 0.9rem;
   user-select: none;
+  cursor: pointer;
 }
 
 .share-and-quote:hover {

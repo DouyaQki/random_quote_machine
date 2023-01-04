@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/random_quote_machine/static/css/main.11487cf8.css",
+    "main.css": "/random_quote_machine/static/css/main.91edb926.css",
     "main.js": "/random_quote_machine/static/js/main.5def6ece.js",
     "static/media/banner_sf.jpg": "/random_quote_machine/static/media/banner_sf.bb52631d1ed48802f165.jpg",
     "static/media/sf_title.jpg": "/random_quote_machine/static/media/sf_title.7a309eb550c714cd79a6.jpg",
@@ -8,11 +8,11 @@
     "static/media/dhalsim.png": "/random_quote_machine/static/media/dhalsim.d67dd27710c474e7c631.png",
     "static/media/zangief.png": "/random_quote_machine/static/media/zangief.eb233379068a0cc3a946.png",
     "index.html": "/random_quote_machine/index.html",
-    "main.11487cf8.css.map": "/random_quote_machine/static/css/main.11487cf8.css.map",
+    "main.91edb926.css.map": "/random_quote_machine/static/css/main.91edb926.css.map",
     "main.5def6ece.js.map": "/random_quote_machine/static/js/main.5def6ece.js.map"
   },
   "entrypoints": [
-    "static/css/main.11487cf8.css",
+    "static/css/main.91edb926.css",
     "static/js/main.5def6ece.js"
   ]
 }
